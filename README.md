@@ -2,6 +2,10 @@
 
 The Sierpiński triangle (sometimes spelled Sierpinski), also called the Sierpiński gasket or Sierpiński sieve, is a fractal attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles.
 
+## Screenshot
+
+<img src="https://user-images.githubusercontent.com/72305598/134038738-08dacca6-00cd-4faa-b9a0-8f203657e3f0.png" width="400">
+
 ## Chaos game
 
 If one takes a point and applies each of the transformations d<sub>A</sub>, d<sub>B</sub>, and d<sub>C</sub> to it randomly, the resulting points will be dense in the Sierpinski triangle, so the following algorithm will again generate arbitrarily close approximations to it.
